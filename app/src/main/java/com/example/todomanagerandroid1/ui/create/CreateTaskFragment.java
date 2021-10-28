@@ -19,7 +19,6 @@ import com.example.todomanagerandroid1.databinding.FragmentCreateTaskBinding;
 public class CreateTaskFragment extends Fragment {
 
     private FragmentCreateTaskBinding binding;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
